@@ -2,7 +2,6 @@
 import * as cheerio from 'cheerio';
 import puppeteer from 'puppeteer';
 
-
 const url = 'https://www.skipthedishes.com/pocket-holic';
 
   async function getPage(url) {
